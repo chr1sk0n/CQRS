@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", "{7F590231-38B1-4B83-A2E1-451E8A831E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F590231-38B1-4B83-A2E1-451E8A831E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F590231-38B1-4B83-A2E1-451E8A831E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F590231-38B1-4B83-A2E1-451E8A831E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F590231-38B1-4B83-A2E1-451E8A831E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
